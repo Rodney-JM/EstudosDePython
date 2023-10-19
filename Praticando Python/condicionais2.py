@@ -1,0 +1,13 @@
+#testes de condições 
+print('será que pizza=="peperoni" i predict true')
+print(' pizza==peperoni')
+print('será que pizza=="mussarela" i predict true')
+print('pizza ==mussarela')
+print('será que pizza=="bmw" i predict false')
+print('pizza != bmw')
+print('será que pizza=="carne de sol" i predict true')
+print('pizza ==cane de sol')
+print('será que pizza=="dois queijos" i predict true')
+print('pizza== dois queijos')
+print('será que pizza=="ferrari" i predict false')
+print('pizza !=ferrari')
